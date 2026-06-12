@@ -42,9 +42,9 @@ export function Footer() {
           <div>
             <h4 className="ea-footer-col-title">支持</h4>
             <ul className="ea-footer-links">
-              <li><a href="#">帮助中心</a></li>
-              <li><a href="#">隐私政策</a></li>
-              <li><a href="#">使用条款</a></li>
+              <li><Link href="/help">帮助中心</Link></li>
+              <li><Link href="/privacy">隐私政策</Link></li>
+              <li><Link href="/terms">使用条款</Link></li>
             </ul>
           </div>
         </div>
