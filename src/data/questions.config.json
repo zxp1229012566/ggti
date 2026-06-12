@@ -1,0 +1,74 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "text": "在团队副本中，你通常扮演什么角色？",
+      "options": [
+        { "text": "指挥全队，制定战术策略", "type": "commander", "icon": "crown" },
+        { "text": "冲锋陷阵，第一个冲向Boss", "type": "explorer", "icon": "zap" },
+        { "text": "默默辅助队友，保障后勤", "type": "harmonizer", "icon": "heart" },
+        { "text": "观察局势，寻找最优解", "type": "strategist", "icon": "brain" }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "当你遇到一个超难的关卡时，你会？",
+      "options": [
+        { "text": "组织队伍，反复尝试直到通关", "type": "commander", "icon": "crown" },
+        { "text": "直接莽进去，边打边想", "type": "explorer", "icon": "zap" },
+        { "text": "安慰队友，保持良好心态", "type": "harmonizer", "icon": "heart" },
+        { "text": "研究攻略，分析每个细节", "type": "strategist", "icon": "brain" }
+      ]
+    },
+    {
+      "id": 3,
+      "text": "你更喜欢什么样的游戏节奏？",
+      "options": [
+        { "text": "快节奏，热血对抗", "type": "commander", "icon": "crown" },
+        { "text": "自由探索，想去哪就去哪", "type": "explorer", "icon": "zap" },
+        { "text": "稳定推进，享受过程", "type": "harmonizer", "icon": "heart" },
+        { "text": "策略性强的深度体验", "type": "strategist", "icon": "brain" }
+      ]
+    },
+    {
+      "id": 4,
+      "text": "游戏中队友失误导致团灭，你会？",
+      "options": [
+        { "text": "指出问题，重新制定计划", "type": "commander", "icon": "crown" },
+        { "text": "一笑而过，再来一局", "type": "explorer", "icon": "zap" },
+        { "text": "安慰他，说没关系", "type": "harmonizer", "icon": "heart" },
+        { "text": "分析原因，下次避免", "type": "strategist", "icon": "brain" }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "你选择游戏角色时最看重什么？",
+      "options": [
+        { "text": "强力输出，主导战局", "type": "commander", "icon": "crown" },
+        { "text": "酷炫技能，视觉冲击", "type": "explorer", "icon": "zap" },
+        { "text": "团队增益，帮助队友", "type": "harmonizer", "icon": "heart" },
+        { "text": "独特机制，可玩性高", "type": "strategist", "icon": "brain" }
+      ]
+    },
+    {
+      "id": 6,
+      "text": "和朋友开黑，你通常负责？",
+      "options": [
+        { "text": "carry全场，带飞队友", "type": "commander", "icon": "crown" },
+        { "text": "活跃气氛，搞笑担当", "type": "explorer", "icon": "zap" },
+        { "text": "照顾每个人，不让任何人落单", "type": "harmonizer", "icon": "heart" },
+        { "text": "计算伤害，数据分析", "type": "strategist", "icon": "brain" }
+      ]
+    },
+    {
+      "id": 7,
+      "text": "你最看重游戏中的什么元素？",
+      "options": [
+        { "text": "竞技排名，证明实力", "type": "commander", "icon": "crown" },
+        { "text": "自由度，想怎么玩就怎么玩", "type": "explorer", "icon": "zap" },
+        { "text": "社交互动，认识新朋友", "type": "harmonizer", "icon": "heart" },
+        { "text": "深度内容，耐玩度高", "type": "strategist", "icon": "brain" }
+      ]
+    }
+  ]
+}

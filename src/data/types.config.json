@@ -1,0 +1,56 @@
+{
+  "types": {
+    "commander": {
+      "id": "commander",
+      "title": "指挥官",
+      "subtitle": "天生的领袖 · 天梯王者",
+      "description": "你天生具有领袖气质，在游戏中总是第一个站出来指挥全局。你的决断力和气场能让队友信服，在关键时刻总能带领团队走向胜利。你追求胜利，享受站在顶峰的快感。",
+      "traits": ["领导力", "决断力", "竞争心", "责任感", "自信"],
+      "strengths": ["出色的团队领导能力", "强大的心理素质", "快速的决策反应", "强烈的胜负欲推动进步"],
+      "weaknesses": ["有时过于强势", "难以接受失败", "可能给队友过大压力"],
+      "compatibleWith": ["harmonizer", "strategist"],
+      "recommendedGames": ["王者荣耀", "英雄联盟", "CS2", "Valorant", "PUBG"],
+      "color": "#f59e0b",
+      "gradient": "linear-gradient(135deg, #f59e0b 0%, #ef4444 100%)"
+    },
+    "explorer": {
+      "id": "explorer",
+      "title": "探险家",
+      "subtitle": "自由的精神 · 快乐玩家",
+      "description": "你是游戏的探索者，不被规则束缚，享受每一次未知的冒险。你的乐观和热情感染着每一个队友，让游戏不仅仅是输赢，更是一段段难忘的回忆。你是队伍中的开心果。",
+      "traits": ["好奇心", "乐观", "适应力", "创意", "勇气"],
+      "strengths": ["极强的适应能力", "能活跃团队气氛", "不怕失败，勇于尝试", "带领队伍走出困境"],
+      "weaknesses": ["有时过于冲动", "难以专注细节", "规则感较弱"],
+      "compatibleWith": ["commander", "harmonizer"],
+      "recommendedGames": ["原神", "塞尔达", "我的世界", "逃离塔科夫", "GTA"],
+      "color": "#10b981",
+      "gradient": "linear-gradient(135deg, #10b981 0%, #06b6d4 100%)"
+    },
+    "harmonizer": {
+      "id": "harmonizer",
+      "title": "调和者",
+      "subtitle": "温暖的港湾 · 团队粘合剂",
+      "description": "你是队伍中最温暖的存在，无论何时都在默默支持着队友。你不追求个人荣耀，但你的存在让团队更加完整。你善于化解矛盾，是团队不可或缺的粘合剂。",
+      "traits": ["共情力", "耐心", "包容", "忠诚", "稳定"],
+      "strengths": ["极强的团队协作能力", "善于倾听和沟通", "情绪稳定，不轻易崩溃", "让队友感到安心"],
+      "weaknesses": ["过于迁就他人", "不善于表达需求", "回避冲突"],
+      "compatibleWith": ["commander", "explorer"],
+      "recommendedGames": ["集合啦！动物森友会", "星露谷物语", "胡闹厨房", "Apex英雄", "命运2"],
+      "color": "#ec4899",
+      "gradient": "linear-gradient(135deg, #ec4899 0%, #8b5cf6 100%)"
+    },
+    "strategist": {
+      "id": "strategist",
+      "title": "策略家",
+      "subtitle": "运筹帷幄 · 幕后大脑",
+      "description": "你是天生的谋士，在数据与逻辑中寻找最优解。你不急于求成，每一次决策都经过深思熟虑。你享受的是分析、推理和找到那个完美策略的过程。",
+      "traits": ["逻辑性", "耐心", "分析力", "远见", "理性"],
+      "strengths": ["出色的分析能力", "善于发现隐藏规律", "理性决策，不受情绪干扰", "能预判对手行动"],
+      "weaknesses": ["决策需要时间", "可能过于理性", "不擅长即兴发挥"],
+      "compatibleWith": ["harmonizer", "commander"],
+      "recommendedGames": ["Dota 2", "星际争霸", "文明", "云顶之弈", "杀戮尖塔"],
+      "color": "#06b6d4",
+      "gradient": "linear-gradient(135deg, #06b6d4 0%, #8b5cf6 100%)"
+    }
+  }
+}
